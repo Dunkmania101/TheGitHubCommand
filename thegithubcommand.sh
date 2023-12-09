@@ -1,2 +1,2 @@
-git submodule add 'https://*/*/*.git'
+git submodule add 'https://.*/.*/.*.git'
 
